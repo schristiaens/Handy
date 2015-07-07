@@ -1,0 +1,31 @@
+Motivation & Goals
+	Jacob - Test out the Leap Motion and build a robot arm, etc
+	
+Design Specifications
+	Track a hand w/o a mechanical interface
+	4 degrees of freedom to mimic the motion of an arm
+	Wireless communication
+	
+Demo
+
+Analysis - Results/Accuracy/Performance
+	Wireless performance issues
+	Delay issues	
+		For a large distance over a short time, there is a delay of about 3/4 of a second.
+	Mechanical issues
+		Limitation of motors
+			Jitter due to resolution
+			Strength of motors
+		Need to attach the robot to the ground
+		Structure of the arm
+			Weak materials
+			No bearings
+			Weight of the materials
+
+Future Work
+	Better actuators, stiffer structure
+	Direct sensing with fewer intermediaries
+	Gripper, more degrees of freedom
+	More specific use cases
+			
+		
